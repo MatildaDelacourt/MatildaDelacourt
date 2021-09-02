@@ -3,7 +3,7 @@
 
 **matibu8/matibu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Here are some ideas to get you started:
+**Here are some ideas to get you started:**
 
 - 🔭 *I’m currently working on school, working and remodeling a house little by little.*
 - 🌱 *I’m currently learning javascript, programming, anything that makes the computer good and fun!*
