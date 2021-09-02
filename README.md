@@ -10,5 +10,5 @@
 - 💬 *Ask me about my passions.*
 - 😄 *Pronouns: She/Her/Hers.*
 - ⚡ *Fun fact: Longest living insect is the queen termite.*
-- - 📫 **How to reach me: matilda.delacourt@gmail.com**
+- 📫 **How to reach me: matilda.delacourt@gmail.com**
 ![glax](https://user-images.githubusercontent.com/73936419/131879337-014942a6-b458-440b-aaa0-e268056e4496.jpg)
