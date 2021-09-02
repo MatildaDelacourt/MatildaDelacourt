@@ -1,8 +1,6 @@
 ### Hi there i'm Matilda Delacourt 👋
 
 
-**matibu8/matibu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 **Get to know me**
 
 - 🔭 *I’m currently working on school, working and remodeling a house little by little.*
