@@ -4,7 +4,7 @@
 **Get to know me**
 
 - 🔭 *I’m currently working on school, working and remodeling a house little by little. I love music and love spending my time either singing or playing the          drums.*
-- 🌱 *I’m currently learning javascript, programming, anything that makes the computer good and fun!*
+- 🌱 *I’m currently learning web development, programming, anything that makes the computer good and fun!*
 - 👯 *I’m looking to collaborate on anything that help me develop knowledge or helps others.*
 - 🤔 *I’m looking for help in cooking, but maybe i will need help for something else in the future.*
 - 💬 *Ask me about my passions.*
